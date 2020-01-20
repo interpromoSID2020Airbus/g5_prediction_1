@@ -1,0 +1,5 @@
+;lgbm_A;lgbm_E;lgbm_CV;lgbm_VAR;logistic_regression_A;logistic_regression_E;logistic_regression_CV;logistic_regression_VAR;knn_A;knn_E;knn_CV;knn_VAR;random_forest_A;random_forest_E;random_forest_CV;random_forest_VAR
+Cabin_Staff_Service;0.9634;0.0401;0.9679;0.0;0.5711;1.1206;0.5704;0.0;0.8861;0.3101;0.8846;0.0;0.9688;0.0443;0.9665;0.0
+Seat_Comfort;0.9594;0.0426;0.9681;0.0;0.5141;0.9947;0.5146;0.0;0.8683;0.266;0.8633;0.0;0.9646;0.0407;0.9653;0.0
+Food_And_Beverages;0.9675;0.0415;0.972;0.0;0.5269;1.0596;0.5236;0.0;0.8792;0.3144;0.8796;0.0;0.9717;0.0442;0.9705;0.0
+Inflight_Entertainment;0.958;0.048;0.967;0.0;0.526;1.422;0.5144;0.0001;0.901;0.2685;0.9;0.0;0.9651;0.0456;0.9639;0.0
